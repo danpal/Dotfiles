@@ -1,1 +1,0 @@
-/Users/dani/.vim/gvimrc
